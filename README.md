@@ -19,17 +19,11 @@ This project is a simple chatbot built using Python, the Natural Language Toolki
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/chatbot-nltk-flask.git
+    git clone https://github.com/YashKumar161/chatbot.git
     cd chatbot-nltk-flask
     ```
 
-2. Install the required packages:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Download the necessary NLTK data:
+2. Download the necessary NLTK data:
 
     ```python
     import nltk
