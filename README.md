@@ -20,7 +20,7 @@ This project is a simple chatbot built using Python, the Natural Language Toolki
 
     ```bash
     git clone https://github.com/YashKumar161/chatbot.git
-    cd chatbot-nltk-flask
+    cd chatbot
     ```
 
 2. Download the necessary NLTK data:
@@ -35,14 +35,13 @@ This project is a simple chatbot built using Python, the Natural Language Toolki
 1. Start the Flask server:
 
     ```bash
-    python app.py
+    python chatbot.py
     ```
 
 2. Open your browser and go to `http://127.0.0.1:5000` to interact with the chatbot.
 
 ## Project Structure
-- `app.py`: The main Flask application file.
-- `chatbot.py`: Contains the chatbot logic using NLTK.
+- `chatbot.py`: The main Flask application file, Contains the chatbot logic using NLTK.
 - `templates/`: HTML templates for the web interface.
 - `static/`: Static files (CSS, JS, images).
 
